@@ -1,5 +1,5 @@
 require("tokyonight").setup {
-    style = "storm",
+    style = "night",
     on_highlights = function(hl, colors)
         hl.LineNr = {
             fg = "#ffffff",

@@ -36,4 +36,11 @@ require("lazy").setup({
 
     --- Git
     {'tpope/vim-fugitive'},
+
+    --- Harpoon
+    {
+        'ThePrimeagen/harpoon',
+        branch = 'harpoon2',
+        dependencies = { 'nvim-lua/plenary.nvim' }
+    }
 })

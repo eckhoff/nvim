@@ -16,12 +16,20 @@ require("lazy").setup({
     'nvim-telescope/telescope.nvim', tag = '0.1.5',
       dependencies = { 'nvim-lua/plenary.nvim' }
     },
+    --- Old Color Scheme
+---    {
+---  "folke/tokyonight.nvim",
+---  lazy = false,
+---  priority = 1000,
+---  opts = {},
+---    },
+---    New Color Scheme
     {
-  "folke/tokyonight.nvim",
-  lazy = false,
-  priority = 1000,
-  opts = {},
+    "catppuccin/nvim",
+    name = "catppuccin",
+    priority = 1000,
     },
+
     {"nvim-treesitter/nvim-treesitter", build = ":TSUpdate"},
     {"mbbill/undotree"},
 

@@ -1,5 +1,6 @@
 {
   "LuaSnip": { "branch": "master", "commit": "33b06d72d220aa56a7ce80a0dd6f06c70cd82b9d" },
+  "catppuccin": { "branch": "main", "commit": "f67b886d65a029f12ffa298701fb8f1efd89295d" },
   "cmp-nvim-lsp": { "branch": "main", "commit": "99290b3ec1322070bcfb9e846450a46f6efa50f0" },
   "harpoon": { "branch": "harpoon2", "commit": "a84ab829eaf3678b586609888ef52f7779102263" },
   "lazy.nvim": { "branch": "main", "commit": "7e6c863bc7563efbdd757a310d17ebc95166cef3" },
@@ -11,7 +12,6 @@
   "nvim-treesitter": { "branch": "master", "commit": "cfbbdd5effbde3d47d2d662e67cfcd62a93b783f" },
   "plenary.nvim": { "branch": "master", "commit": "2d9b06177a975543726ce5c73fca176cedbffe9d" },
   "telescope.nvim": { "branch": "master", "commit": "d90956833d7c27e73c621a61f20b29fdb7122709" },
-  "tokyonight.nvim": { "branch": "main", "commit": "b262293ef481b0d1f7a14c708ea7ca649672e200" },
   "undotree": { "branch": "master", "commit": "78b5241191852ffa9bb5da5ff2ee033160798c3b" },
   "vim-fugitive": { "branch": "master", "commit": "320b18fba2a4f2fe3c8225c778c687e0d2620384" }
 }
